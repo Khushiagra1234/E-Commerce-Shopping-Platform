@@ -17,6 +17,8 @@ A responsive and interactive eCommerce website built using **HTML**, **CSS**, an
 
 ## 🚀 Live Demo
 
+[Click here to view the live site] https://github.com/Khushiagra1234/E-Commerce-Shopping-Platform.git
+
 
 ## 💻 Technologies Used
 
